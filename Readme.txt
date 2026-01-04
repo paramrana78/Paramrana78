@@ -1,1 +1,1 @@
-Experienced mobile applications developer with a demonstrated history of working in the information technology and services industry. Skilled in mobile apps development, Java, Kotlin, React Native, Firebase, etc.
+ Technical Lead with strong experience in building scalable, high-performance mobile applications across iOS and Android. Proven expertise in React Native, Kotlin, Java, Firebase, and modern mobile architectures, with a focus on code quality, performance optimization, and team mentorship.
